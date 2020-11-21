@@ -11,3 +11,4 @@
 |  Read03   |[link 3](https://hanaaghazzi.github.io/reading-notes301/read03)|
 |  Read04   |[link 4](https://hanaaghazzi.github.io/reading-notes301/read04)|
 |  Read05   |[link 5](https://hanaaghazzi.github.io/reading-notes301/read05)|
+|  Read06   |[link 6](https://hanaaghazzi.github.io/reading-notes301/read06)|
