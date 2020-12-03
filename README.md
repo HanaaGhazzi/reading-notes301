@@ -19,3 +19,5 @@
 |  Read11   |[link 11](https://hanaaghazzi.github.io/reading-notes301/read11)|
 |  Read12   |[link 12](https://hanaaghazzi.github.io/reading-notes301/read12)|
 |  Read13   |[link 13](https://hanaaghazzi.github.io/reading-notes301/read13)|
+|  Read14   |[link 14](https://hanaaghazzi.github.io/reading-notes301/read14)|
+|  Read15   |[link 15](https://hanaaghazzi.github.io/reading-notes301/read15)|
